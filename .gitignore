@@ -1,24 +1,9 @@
 # Modelos
 /models/BASE_MODEL/
-# Modelos
-# /models/LoRa/lora_aliteracion/
-# /models/LoRa/lora_anafora/
-# /models/LoRa/lora_animalizacion/
-# /models/LoRa/lora_asindeton/
-# /models/LoRa/lora_cosificacion/
-# /models/LoRa/lora_epifora/
-# /models/LoRa/lora_epiteto/
-# /models/LoRa/lora_hiperbole/
-# /models/LoRa/lora_paralelismo/
-# /models/LoRa/lora_personificacion/
-# /models/LoRa/lora_pleonasmo/
-# /models/LoRa/lora_polisindeton/
-# /models/LoRa/lora_simil/
-# /models/LoRa/lora_anadiplosis/  <- comenta esta línea para subirla
-# /models/LoRa/modelo_lora_final/
+
 
 # Tools completo
-/tools/
+/tools/cc.es.300.bin
 
 # Prompts y figures
 /prompts/
