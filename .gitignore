@@ -1,12 +1,8 @@
 # Modelos
 /models/BASE_MODEL/
 
-
-# Tools completo
 /tools/cc.es.300.bin
 
-# Prompts y figures
-/prompts/
 
 # Sistema
 .DS_Store
