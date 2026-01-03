@@ -1,0 +1,14 @@
+# Modelos
+/models/BASE_MODEL/
+/models/LoRa/
+
+# Tools completo
+/tools/
+
+# Prompts y figures
+/prompts/
+/figures/
+
+# Sistema
+.DS_Store
+.idea
